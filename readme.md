@@ -1,0 +1,1 @@
+Follow tutorial: https://www.tahasivaci.com/android/android-signalr-chat-with-c-and-web-api
